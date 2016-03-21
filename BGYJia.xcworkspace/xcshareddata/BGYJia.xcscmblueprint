@@ -1,16 +1,16 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8776886d-3d47-1643-997d-e713f71577c5++1804",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "48AF807DA8F703FC4C3D0E368020F8783D18F668",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
-    "8776886d-3d47-1643-997d-e713f71577c5++1804" : {
+    "48AF807DA8F703FC4C3D0E368020F8783D18F668" : {
 
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "8776886d-3d47-1643-997d-e713f71577c5++1804" : 0
+    "48AF807DA8F703FC4C3D0E368020F8783D18F668" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A0254AB0-D869-4A3C-84DE-B2B8CD81A970",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "8776886d-3d47-1643-997d-e713f71577c5++1804" : "BGYJia\/"
+    "48AF807DA8F703FC4C3D0E368020F8783D18F668" : "BGYJia\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "BGYJia",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -19,7 +19,7 @@
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.1.150\/svn\/qmswios",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8776886d-3d47-1643-997d-e713f71577c5++1804"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "48AF807DA8F703FC4C3D0E368020F8783D18F668"
     }
   ]
 }

@@ -29,7 +29,7 @@
     
     User * user = [User runUser];
     
-    JCLog(@" %@ ",user.jsessionid);
+//    JCLog(@" %@ ",user.jsessionid);
     
     [self.webView reload];
 }
