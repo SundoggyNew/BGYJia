@@ -28,7 +28,7 @@
     self.tabBarController.tabBar.hidden = NO;
     
     User * user = [User runUser];
-    
+//    sunwei
     JCLog(@" %@ ",user.jsessionid);
     
     [self.webView reload];
